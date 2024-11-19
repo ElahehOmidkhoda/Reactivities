@@ -1,0 +1,11 @@
+/home/elaheh/react_documents/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/elaheh/react_documents/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/home/elaheh/react_documents/demo/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/home/elaheh/react_documents/demo/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll
